@@ -25,7 +25,7 @@ metal oxide silicon field effect transistor
 > OR GATE: A and B: connect drain of A and drain of B and source of A and source of B in parallel to a battery
 > NAND GATE: A and B: have battery line to output and connect in series source drain A B out is before source connection of A //// Since there is a resistor before battery the 1/2 of the source is below the treshold to be considered on when both A and B are on
 > NOR GATE: A and B: have battery line to output and connect in parallel the source drain of A B, so whenever A or B is ON the current from the battery drops.
->
+
 
 https://en.wikipedia.org/wiki/Integrated_circuit
 ##### ICs are integrated circuts
